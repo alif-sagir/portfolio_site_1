@@ -1,0 +1,25 @@
+/*****************/
+/* font setup start*/
+/*****************/
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('../fonts/Lato-Regular.ttf');
+}
+/*****************/
+/* font setup end*/
+/*****************/
+
+:root {
+    /* font variable*/
+    --font_lato: 'Lato', sans-serif;
+
+    /* border variable*/
+    --border: 1px solid red;
+
+    /* color variable*/
+    --brand_color: #ef4b47;
+    --paragraph_color: #666563;
+    --font_color: #2c2b29;
+    --bg_color: #f5f4f2;
+}
+
